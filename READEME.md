@@ -58,7 +58,7 @@ O sistema adota uma arquitetura MVC (Model-View-Controller) para separar as resp
 
 1. **Clone o Repositório**
    ```bash
-      git clone https://github.com/tshigueto/EcommmercePI.git]
+      git clone https://github.com/tshigueto/EcommmercePI.git
 
 
 ## Uso e Funcionalidades
